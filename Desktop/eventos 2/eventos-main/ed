@@ -1,0 +1,77 @@
+[33mcommit 100d75704e59cbcfe1d3e11cc02bb3d845ad852a[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Enéas <devid99eneas@gmail.com>
+Date:   Fri Mar 10 01:01:20 2023 -0300
+
+    metodo de atualizar
+
+[33mcommit 22b659798263535196f9d5856e600472bf040d4c[m
+Author: Enéas <devid99eneas@gmail.com>
+Date:   Tue Mar 7 18:35:21 2023 -0300
+
+    Aprimoramento do back com filtro de data do evento com base no dia atual
+
+[33mcommit e612f6fa8f4ffa145e50a5ec528e416cadf13ff2[m
+Author: Enéas <devid99eneas@gmail.com>
+Date:   Wed Mar 1 17:19:39 2023 -0300
+
+    Aprimoramento do front
+
+[33mcommit 23c15df424090119f8d2189ad6c551d78102e729[m
+Author: Enéas <devid99eneas@gmail.com>
+Date:   Wed Mar 1 17:01:15 2023 -0300
+
+    Metodo de busca com geolocalização
+
+[33mcommit ec78ba82cf3db5bdb454517922e7246522ea7533[m
+Author: Enéas <devid99eneas@gmail.com>
+Date:   Wed Mar 1 14:21:48 2023 -0300
+
+    Melhorias na logica de acesso as paginas e correções no front end
+
+[33mcommit 7127a146d345e6e74daf2f134b168bb28746e292[m
+Author: Enéas <devid99eneas@gmail.com>
+Date:   Tue Feb 28 17:03:55 2023 -0300
+
+    correções no front
+
+[33mcommit 8f1e4357437fff5fdec2d1397612856850766bf0[m
+Author: Enéas <devid99eneas@gmail.com>
+Date:   Tue Feb 28 15:59:55 2023 -0300
+
+    correção no front
+
+[33mcommit ca253e4edc2e42490f6cd056683122b27d158d66[m
+Author: Enéas <devid99eneas@gmail.com>
+Date:   Tue Feb 28 14:39:50 2023 -0300
+
+    correção email
+
+[33mcommit c7713adf43eb6830174ffcce3b1fa43aa12a52c5[m
+Author: Enéas <devid99eneas@gmail.com>
+Date:   Thu Feb 16 15:37:49 2023 -0300
+
+    Melhoria no front, redesinger da opção de login
+
+[33mcommit 54c020238a9f9a070de84f31e75f268318e70c8a[m
+Author: Enéas <devid99eneas@gmail.com>
+Date:   Sat Feb 11 20:45:41 2023 -0300
+
+    metodo de redefinir senha finalizado, quantidade de participantes
+
+[33mcommit 07c987531f7246dba89704701e4ba32d8eea17b4[m
+Author: Enéas <devid99eneas@gmail.com>
+Date:   Fri Feb 10 17:04:34 2023 -0300
+
+    Melhorias no dashboard
+
+[33mcommit 843022e330cf32ddf7f17a31f970e82958c90e36[m
+Author: Enéas <devid99eneas@gmail.com>
+Date:   Fri Feb 10 15:14:25 2023 -0300
+
+    Melhorias na função de cadastro de eventos e correções
+
+[33mcommit 8dbb6ac47cd25c8748589c9ce487ef785bdb2d30[m
+Author: Enéas <devid99eneas@gmail.com>
+Date:   Fri Feb 10 14:27:42 2023 -0300
+
+    Correções de front end
